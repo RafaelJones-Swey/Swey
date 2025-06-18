@@ -2,6 +2,6 @@
   "showInter": true,
   "showBunner": true,
   "showAppOpen": true,
-  "shouldLoadCompanions": true,
+  "shouldLoadCompanions": false,
   "version": "1.1"
 }
